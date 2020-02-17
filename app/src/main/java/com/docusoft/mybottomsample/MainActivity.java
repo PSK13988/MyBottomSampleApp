@@ -47,11 +47,7 @@ public class MainActivity extends AppCompatActivity {
 
     DroidWriterEditText dwEdit;
 
-    /* private static final int COLOR_REQUEST = 1337;
-     private RichEditText editor = null;
-     private ColorPickerOperation colorPickerOp = null;
-     private RichEditor mEditor;*/
-    private TextView mPreview, title;
+    private TextView title;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
