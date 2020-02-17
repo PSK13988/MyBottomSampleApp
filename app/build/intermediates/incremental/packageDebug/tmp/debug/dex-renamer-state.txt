@@ -1,0 +1,4 @@
+#Wed Jan 29 18:06:17 IST 2020
+base.0=D\:\\Pankaj_kharche\\workspace\\MyBottomSample\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
